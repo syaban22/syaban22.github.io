@@ -29,8 +29,8 @@ Sebagai bukti komitmen terhadap digitalisasi, saya sedang mengimplementasikan si
     * Memudahkan Staf TU dan guru melacak riwayat peminjaman.
     * Bukti digitalisasi administrasi Labkom yang efektif.
 
-[**TAUTAN MENUJU APLIKASI WEB**]
-
+[**TAUTAN MENUJU REPOSITORY KARYA APLIKASI WEB**]
+https://github.com/syaban22/INV_LABKOM.git
 ---
 
 ## 📧 Kontak
