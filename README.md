@@ -1,45 +1,44 @@
-# Sya'ban, S.kom.
+# Sya'ban, S.Kom.
 
-### Staf Tata Usaha Sekolah
+### Staf Tata Usaha | Spesialisasi: Manajemen Infrastruktur & Digitalisasi Administrasi Sekolah
 
-Selamat datang di portofolio digital saya. Saya adalah Staf Tata Usaha dengan 5 tahun pengalaman dalam manajemen infrastruktur perangkat dan jaringan sekolah, kearsipan, dan efisiensi administrasi sekolah sekolah. Saya berfokus pada efisiensi proses kerja dan akurasi data.
+Selamat datang di portofolio digital sederhana saya sebagai Staf Tata Usaha yang berfokus pada integrasi teknologi untuk meningkatkan efisiensi operasional dan administrasi di lingkungan sekolah.
 
-## 💼 Pengalaman dan Keahlian Kunci
-
-### Pengalaman Kerja
-
-* **[Jabatan Anda]** | [Nama Sekolah/Instansi] (Tahun - Sekarang)
-    * Bertanggung jawab atas validasi dan pembaruan data kesiswaan di platform Dapodik.
-    * Mengelola seluruh arsip surat masuk dan keluar secara digital dan fisik.
-    * [Sebutkan pencapaian terukur lainnya, misal: Mengurangi kesalahan laporan sebesar X%].
-* **[Jabatan Sebelumnya]** | [Nama Instansi Sebelumnya] (Tahun Mulai - Tahun Selesai)
-    * [Tugas dan Pencapaian]
-
-### Keahlian Teknis
-
-| Kategori | Detail Keterampilan |
-| :--- | :--- |
-| **Microsoft Office** | Mahir MS Excel (VLOOKUP, Pivot Table), Mail Merge MS Word, Presentasi PowerPoint. |
-| **Sistem Informasi** | Dapodik, Simpeg, Sistem Kearsipan Digital, [Sistem Lainnya]. |
-| **Administrasi** | Korespondensi Resmi, Kearsipan, Pengelolaan Inventaris. |
+Latar belakang pendidikan saya (S.Kom.) mendukung peran saya dalam mengelola infrastruktur perangkat, jaringan sekolah, serta berkomitmen untuk memulai inisiatif digitalisasi kearsipan dan administrasi.
 
 ---
 
-## 📂 Contoh Bukti Kerja (Portofolio)
+## 🛠️ Keahlian dan Peran Kunci
 
-Berikut adalah contoh-contoh nyata hasil pekerjaan saya di bidang administrasi. *(Catatan: Semua data sensitif telah diubah/dianonimkan)*
+### Peran Teknis & Infrastruktur
 
-### 1. Sistem Pelaporan Nilai Otomatis (MS Excel)
-Tangkapan layar dari template Excel yang saya buat untuk mengotomatisasi perhitungan nilai akhir siswa berdasarkan berbagai komponen, mengurangi waktu input data guru.
-**[Tambahkan Tautan ke Gambar/Screenshot Proyek di sini, atau Deskripsi Rinci]**
-
-### 2. Template Surat Resmi Sekolah
-Contoh format surat resmi yang rapi dan sesuai standar dinas.
-**[Tambahkan Tautan ke File PDF/Gambar Contoh Surat Anonim di sini]**
+| Area Fokus | Detail Keterampilan |
+| **Manajemen Perangkat** | Pemeliharaan dan *troubleshooting* perangkat keras (PC, laptop, printer), instalasi sistem operasi dan aplikasi standar sekolah. |
+| **Jaringan Dasar** | Pengelolaan jaringan lokal (LAN), *basic setup* perangkat WiFi, dan monitoring konektivitas. |
+| **Keamanan Data** | Pengarsipan dokumen dan *backup* data sekolah (kearsipan digital) untuk memastikan keamanan dan kemudahan akses. |
 
 ---
 
-## 📧 Hubungi Saya
+## 🚀 Bukti Digitalisasi (Inisiatif Proyek)
 
-* **Email:** sya.ban253@admin.sma.belajar.id
-* **Instagram:** @syaban22
+Sebagai bukti komitmen terhadap digitalisasi, saya sedang mengimplementasikan sistem berbasis web sederhana untuk memecahkan masalah administrasi manual.
+
+### Sistem Peminjaman Barang Lab Komputer Digital
+
+* **Tujuan:** Mengubah pencatatan peminjaman dan pengembalian barang (seperti laptop, proyektor, kabel) di Lab Komputer dari buku manual menjadi sistem digital berbasis web.
+* **Manfaat:**
+    * Memastikan data inventaris *real-time* dan mengurangi kehilangan barang.
+    * Memudahkan Staf TU dan guru melacak riwayat peminjaman.
+    * Bukti digitalisasi administrasi Labkom yang efektif.
+
+[**TAUTAN MENUJU APLIKASI WEB (Akan diisi setelah aplikasi dibuat)**]
+
+---
+
+## 📧 Kontak
+
+Jika ada kebutuhan formal atau profesional, silakan hubungi saya melalui:
+
+* **Email:** `sya.ban253@admin.sma.belajar.id`
+* **Instagram:** [@syaban22](https://www.instagram.com/syaban22)
+* **Tautan GitHub:** https://syaban22.github.io/
