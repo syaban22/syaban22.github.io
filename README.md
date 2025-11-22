@@ -1,6 +1,4 @@
-# Sya'ban, S.Kom.
-
-### Staf Tata Usaha | Spesialisasi: Manajemen Infrastruktur & Digitalisasi Administrasi Sekolah
+# Staf Tata Usaha | Sya'ban, S.Kom.
 
 Selamat datang di portofolio digital sederhana saya sebagai Staf Tata Usaha yang berfokus pada integrasi teknologi untuk meningkatkan efisiensi operasional dan administrasi di lingkungan sekolah.
 
